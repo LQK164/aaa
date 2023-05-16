@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "VJJbdKV69FAiq9adMZWuuAsp7LqSMWLn9FrocAdpd4kGF1Mp190Dxrr53Oi3AoNjOVW3hxNWg25x77yFvMV1cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User.DESKTOP-CTIQ4C3\\Documents\\NT106\\NT106\\LAB02\\LAB02\\LAB02.csproj",
+=======
+  "dgSpecHash": "88U5wKeX8CYqs6hGNPAeOylksH/Ce3SHdo561g85bEm0Pxe4kG4SmH9pK6g6u70zdThSJyq6pAGPFiIoy09lbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Downloads\\aqua-master\\NT106\\LAB02\\LAB02\\LAB02.csproj",
+>>>>>>> 098ac8faae49f9321e917c1184af01bfabf7b6e6
+  "expectedPackageFiles": [],
+  "logs": []
+}
